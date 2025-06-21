@@ -23,8 +23,8 @@
     "mkdirp": "^0.5.1",
     "moment": "^2.24.0",
     "recursive-copy": "^2.0.10",
-    "request": "^2.88.0",
-    "rimraf": "^2.6.3",
+    "request": "^2.88.2",
+    "rimraf": "^4.3.1",
     "sharedstreets": "^0.13.0",
     "through2": "^3.0.1",
     "untildify": "^3.0.3"
